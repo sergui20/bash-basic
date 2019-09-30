@@ -1,0 +1,16 @@
+# ! /bin/bash
+# Es un programa para revisar como ejecutar comandos dentro de un programa y almacenarlos en una variables, para usarse despues
+# Author: Sergui Morejon - @Sergui_Najib
+
+ubicacionActual=`pwd`
+infoKernel=$(uname -a)
+
+echo "La ubicacion actual es la siguiente: $ubicacionActual"
+echo "La informacion del kernel es: $infoKernel"
+
+
+
+
+
+
+
